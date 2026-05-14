@@ -1,0 +1,6 @@
+*.db
+backups/
+logs/
+reports/
+uploads/
+comprovantes/
