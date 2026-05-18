@@ -21,9 +21,8 @@ Suas especificações fisicas são:
   - Memoria RAM: 2 GB
 
 Para poder transformar-lo em um servidor, foi feito os seguintes passo a passos:
- - Instalar o Termux e o Termux:Boot(via F-droid)
- - Baixar o Python (E baixar as bibliotecas do python):
-    - SQLite3
+   - Instalar o Termux e o Termux:Boot(via F-droid)
+   - Baixar o Python (E baixar as bibliotecas do python):
     - uvicorn
     - Flask
     - Jinja2
@@ -36,4 +35,37 @@ Para poder transformar-lo em um servidor, foi feito os seguintes passo a passos:
     - urllib3
     - pillow
     - passlib
-   
+
+Como o termux trabalha em um sistema operacional Android, algumas coisas precisa se adaptar, por mais que ele tem bastante semelhanças em Linux tradicional, como por exemplo, a instalação de ferramentas é através de PKG
+
+E no termux, é preciso instalar via pkg:
+  - openssh
+  - openssl
+  - sqlite
+  - tar
+  - npm
+  - nano
+  - nodejs
+  - make
+  - git
+  - htop
+  - findutils
+  - curl
+  - cmake
+  - make
+  - mandoc
+  - clang
+  - binutils
+  - apt
+  - bash
+  - termux-services
+  - termux-tools
+  - tur-repo
+  - zip
+  - unzip
+  - wget
+  - tree
+  - vim
+  - which
+  - procps
+  - net-tools
