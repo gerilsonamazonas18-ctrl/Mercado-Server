@@ -69,3 +69,10 @@ E no termux, é preciso instalar via pkg:
   - which
   - procps
   - net-tools
+
+
+Algumas ferramentas muito importante para a visualização do banco de dados, foi a do **FileBrowser** que é utilizado para Servidor NAS, o **Taiscale** para eu utilizar de forma remota em outros lugares
+
+**`BANCO DE DADOS`**
+
+O Banco de Dados está sendo desenvolvido na linguagem Python, utilizando o SQLite para o controle do banco
